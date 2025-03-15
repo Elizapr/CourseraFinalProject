@@ -65,4 +65,4 @@ This project is for educational purposes and does not hold any financial recomme
 
 ## Author
 Eliza  
-[Elizpr (Github Profile)] https://github.com/Elizapr/CourseraFinalProject.git
+https://github.com/Elizapr/
